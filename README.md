@@ -1,6 +1,7 @@
 # P2P network overlay using Information Centric Networking Protocols (NDN)
 
-![Diagram][https://github.com/AyushTCD/ICN-MarsRover/blob/main/img.png]
+![image](https://github.com/user-attachments/assets/a59e6708-d75e-47ee-83d9-cfb5ca588e49)
+
 
 This is Project 3 for the Scalable Computing module.
 
