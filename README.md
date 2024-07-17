@@ -1,5 +1,7 @@
 # P2P network overlay using Information Centric Networking Protocols (NDN)
 
+![Diagram][https://github.com/AyushTCD/ICN-MarsRover/blob/main/img.png]
+
 This is Project 3 for the Scalable Computing module.
 
 ## Instructions to run code:
@@ -28,3 +30,4 @@ All nodes in the Rovers network are configured to run on Pi 1, and the Bases net
 9. Wait for the data to return. You can track the routing by switching to other nodes.<br />
 10. To exit tmux, press ctrl+b then d. 
 11. To kill the network and all running ports, enter the command: tmux kill-server
+
